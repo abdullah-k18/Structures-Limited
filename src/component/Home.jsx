@@ -7,21 +7,21 @@ const slides = [
     titlePartTwo: "At Structures Limited",
     description:
       "At Structures Limited, we specialize in delivering cutting-edge digital solutions across a wide range of services, including web development, mobile app development (React Native, Flutter), AI & machine learning integration, graphic design, and video editing. Our team is committed to creating high-performance, scalable, and innovative applications tailored to meet the unique needs of our clients.",
-    video: "/video1.mp4",
+    video: "https://videos.pexels.com/video-files/3141208/3141208-sd_640_360_25fps.mp4",
   },
   {
     titlePartOne: "Grow Your Business",
     titlePartTwo: "With Our Expert Services",
     description:
       "Take your business to the next level with our comprehensive IT services and consulting. We provide web development, mobile app solutions, and AI integration that can help scale your business and improve performance.",
-    video: "/video2.mp4",
+    video: "https://videos.pexels.com/video-files/3141210/3141210-sd_640_360_25fps.mp4",
   },
   {
     titlePartOne: "Learn & Grow",
     titlePartTwo: "With Our Specialized Courses",
     description:
       "Our courses cover everything from web development to AI & ML, equipping students with the skills they need to succeed in the future. These courses will help you build a strong foundation and advance your career.",
-    video: "/video3.mp4",
+    video: "https://videos.pexels.com/video-files/3129576/3129576-sd_640_360_30fps.mp4",
   },
 ];
 
